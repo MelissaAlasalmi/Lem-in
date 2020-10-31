@@ -6,9 +6,11 @@
 /*   By: bbehm <bbehm@student.hive.fi>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/30 10:07:13 by bbehm             #+#    #+#             */
-/*   Updated: 2020/10/30 10:08:01 by bbehm            ###   ########.fr       */
+/*   Updated: 2020/10/31 11:48:59 by bbehm            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "../includes/lem_in.h"
 
 void	free_array(char **array)
 {
